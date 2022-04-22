@@ -4,7 +4,7 @@
 
 # IW-Academy Org
 
-This is the InfinityWorks Neil Jennings Academy organisation.
+This is the InfinityWorks internal Academy organisation.
 
 In here we have:
 
