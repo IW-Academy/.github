@@ -1,4 +1,4 @@
-<img src="../img/Logo_Infinity-Works_Part-of-Accenture_Academy_White.svg"/>
+<img src="../img/Logo_Infinity-Works_Part-of-Accenture_Academy_White.png"/>
 
 ---
 
