@@ -19,7 +19,7 @@ Any questions please contact us on IW Slack!
 
 | Academy | Theme | Teams |
 | ------- | ----- | ----- |
-| 2016 | TBC | Illumine |
+| 2016 | Skills register | Illumine |
 | 2017 | Office Archery | Straight And Arrow
 | 2018 | Snail racing | Snailx racing |
 | 2019 | Games | Infiniopoly |
