@@ -29,6 +29,7 @@ Any questions please contact us on IW Slack!
 | 2021 Sept  | Retro Arcade | Infini-Vaders, Pumpkin blaster 3000, Infni-Chase and Elfinity |
 | 2022 Jan   | Boardgames | Infini-scryption, Co-orportation, and Infini-cube |
 | 2022 March | Choose Your Own Adventure | Infini Of The Rings, Infini Jones, Infini Planets, and Infini Capes |
-| 2022 May   | It's a secret for now :wink: | It's a secret for now :wink: |
+| 2022 May   | Funky Travel Options | InfiniSpace, InfiniSub, InfiniAir, and InfiniRocket |
+| 2022 Sept  | It's a secret for now :wink: | It's a secret for now :wink: |
 
 ---
