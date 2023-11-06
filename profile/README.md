@@ -2,9 +2,9 @@
 
 ---
 
-# IW-Academy Org
+# Accenture School Of Tech Org
 
-This is the InfinityWorks internal Academy organisation.
+This is the internal Accenture School Of Tech organisation.
 
 In here we have:
 
