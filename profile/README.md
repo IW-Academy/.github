@@ -1,4 +1,4 @@
-<img src="https://github.com/IW-Academy/.github/blob/main/img/Accenture_Logo_White_Purple_RGB.png"/>
+<img src="https://github.com/IW-Academy/.github/blob/main/img/SoT_Logo_White_Purple_RGB.png"/>
 
 ---
 
